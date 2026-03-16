@@ -338,7 +338,6 @@ This repository is provided for research, learning, and reference purposes only.
 * Pretrained weights may be distributed separately through Releases.
 * Without explicit permission, redistribution of the dataset is not allowed.
 
-If you want to add an open-source license later, you may do so explicitly.
 At the current stage, this project is released as **source-visible, not open-source licensed**.
 
 ---
