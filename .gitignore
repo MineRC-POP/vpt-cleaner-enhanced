@@ -1,0 +1,28 @@
+# cookies
+cookies.txt
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+# Python tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Project data / outputs
+frames/
+frames_original/
+frame_true/
+runs/
+videos/
+videos_original/
+yt_dataset_out/
